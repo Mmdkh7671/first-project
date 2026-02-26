@@ -1,5 +1,4 @@
-console.log("hello world");
-let name= "Mmdkh";
-let age= 22;
-console.log("name:",name);
-console.log("age:",age);
+let isDeveloper = true;
+let salary = 5000.50;
+let hobbies = ["js","React","Design"];
+console.log(isDeveloper,salary,hobbies);
